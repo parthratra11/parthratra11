@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **parthratra11@gmail.com**
 
-- ⚡ Fun fact **I think I am funny (I actually am.)**
+- ⚡ Fun fact **I think I am funny (I actually am)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
