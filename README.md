@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, FastAPI, MongoDB**
 
-- 👨‍💻 All of my projects are available at [(Coming soon)]((Coming soon))
+- 👨‍💻 All of my projects are available at (Portfolio coming soon)
 
 - 📫 How to reach me **parthratra11@gmail.com**
 
