@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **parthratra11@gmail.com**
 
-- ⚡ Fun fact **I think I am funny (I actually am.)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/parthratra11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parthratra11" height="30" width="40" /></a>
