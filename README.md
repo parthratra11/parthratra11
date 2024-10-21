@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ElectriCAL](https://github.com/parthratra11/Electri-CAL)
 
-- 🌱 I’m currently learning **Next.js, FastAPI, MongoDB**
+- 🌱 I’m currently learning **Next.js, React Native, FastAPI, MongoDB**
 
 - 👨‍💻 All of my projects are available at (Portfolio coming soon)
 
