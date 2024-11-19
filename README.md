@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth</h1>
 <h3 align="center">An aspiring coder</h3>
 
-- 🔭 I’m currently working on [ElectriCAL](https://github.com/parthratra11/Electri-CAL)
+- 🔭 I’m currently working on [UniShip](https://github.com/parthratra11/UniShip)
 
 - 🌱 I’m currently learning **Next.js, React Native, FastAPI, MongoDB**
 
