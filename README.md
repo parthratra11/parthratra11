@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Parth</h1>
 <h3 align="center">An aspiring coder</h3>
 
-- 🔭 I’m currently working on [TrashCam](https://github.com/parthratra11/TrashCam) & [UniShip](https://github.com/parthratra11/UniShip)
+- 🔭 Currently working on [TrashCam](https://github.com/parthratra11/TrashCam) & [UniShip](https://github.com/parthratra11/UniShip)
 
-- 🌱 I’m currently learning **Next.js, React Native, FastAPI, MongoDB**
+- 🌱 Currently learning **Next.js, React Native** & **Firebase**
 
-- 👨‍💻 All of my projects are available at (Portfolio coming soon)
+- 👨‍💻 Portfolio & Projects: (Portfolio coming soon)
 
-- 📫 How to reach me **parthratra11@gmail.com**
+- 📫 Reach me at: **parthratra11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
