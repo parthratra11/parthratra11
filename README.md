@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Parth</h1>
 <h3 align="center">An aspiring coder</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthratra11" alt="parthratra11" /> </p>
+
 - 🔭 Currently working on [TrashCam](https://github.com/parthratra11/TrashCam) & [UniShip](https://github.com/parthratra11/UniShip)
 
 - 🌱 Currently learning **Next.js, React Native** & **Firebase**
