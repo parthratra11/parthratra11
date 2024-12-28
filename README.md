@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthratra11" alt="parthratra11" /> </p>
 
-- 🔭 Currently working on [TrashCam](https://github.com/parthratra11/TrashCam) & [UniShip](https://github.com/parthratra11/UniShip)
+- 🔭 Currently working on [TrashCam](https://github.com/parthratra11/TrashCam)
 
 - 🌱 Currently learning **Next.js, React Native** & **Firebase**
 
