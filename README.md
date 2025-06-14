@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthratra11" alt="parthratra11" /> </p>
 
-- 🔭 Currently working on [The Gifting Affair](https://github.com/TheGiftingAffair/website_code)
+- 🔭 Currently working on [The Nutrition App](https://github.com/parthratra11/NutritionApp)
 
 - 🌱 Currently learning **Next.js, React Native** & **Firebase**
 
