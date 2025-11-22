@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthratra11" alt="parthratra11" /> </p>
 
-- 🔭 Currently working on [The Nutrition App](https://github.com/parthratra11/NutritionApp)
+- 🔭 Currently working on [YatraBook](https://github.com/parthratra11/YatraBook)
 
 - 🌱 Currently learning **Next.js, React Native** & **Firebase**
 
